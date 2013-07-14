@@ -10,7 +10,7 @@ Installation
 To use this applicaton, you just have to clone the project with the below command
 
 ```sh
-$ git clone https://github.com/Tessi-Tms/NotificationManager.git
+$ git clone https://github.com/somane/PartnershipManager.git
 ```
 
 Then go inside the cloned folder and use Composer to install all the application dependencies
