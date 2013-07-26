@@ -5,7 +5,7 @@ Symfony2 application to handle partnership between MaliteanConsulting and its pa
 
 
 Installation
-==================
+============
 
 To use this applicaton, you just have to clone the project with the below command
 
