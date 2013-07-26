@@ -7,7 +7,7 @@ Symfony2 application to handle partnership between MaliteanConsulting and its pa
 Installation
 ============
 
-To use this applicaton, you just have to clone the project with the below command
+Clone the project by using the command below :
 
 ```sh
 $ git clone https://github.com/somane/PartnershipManager.git
